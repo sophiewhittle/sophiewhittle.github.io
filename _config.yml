@@ -29,11 +29,11 @@ author:
   bio              : "Linguist & Digital Humanist"
   location         : "Sheffield"
   employer         : "University of Sheffield"
-  uri              : # URL
+  uri              : "https://www.dhi.ac.uk/whittle/"
   email            : "sophie.whittle@sheffield.ac.uk" 
 
   # Academic websites
-  academia         : "https://www.dhi.ac.uk/whittle/"
+  academia         : 
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=8059n48AAAAJ&hl=en"
   inspire-hep      : # URL
