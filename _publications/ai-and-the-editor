@@ -2,10 +2,9 @@
 title: "AI and the Editor"
 collection: publications
 category: manuscripts
-permalink: sophiewhittle.github.io/publications/ai-and-the-editor
+permalink: sophiewhittle.github.io/publication/ai-and-the-editor
 date: 2023-12-04
 venue: 'The Future of Text IV'
 paperurl: 'https://sophiewhittle.github.io/files/ai-and-the-editor.pdf'
 citation: 'Whittle, Sophie, James O'Sullivan & Michael Pidd. (2023). &quot;AI and the Editor.&quot;, In Hegland, Frode A. (ed.) <i>The Future of Text IV</i> (London: Future Text Publishing). 1(1).'
 ---
-Digital scholarly editing remains an industrial craft: the materials, medium and methods are technological, but the work itself remains largely manual and bespoke. And because digital editions are labour intensive, they can be limited in scale. Editors-that is, textual scholars and the makers of editions-were among the first in the arts and humanities to recognise the publishing affordances of the digital. And so it is surprising that machine learning and natural language processing have not yet played a greater role in scholarly editing; that newer forms of computation have not advanced editions to the same degree as markup languages did in the final decades of the twentieth century.
