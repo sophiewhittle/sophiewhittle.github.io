@@ -23,7 +23,7 @@ repository               : "sophie whittle/sophiewhittle.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sophie.png"
   name             : "Sophie Whittle"
   pronouns         : "she/her"  
   bio              : "Linguist & Digital Humanist"
