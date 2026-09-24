@@ -49,9 +49,12 @@ Experience
 
 Education
 ======
-* PhD English Language and Linguistics, University of Sheffield (2019-2023) | Supervisors: Dr Graham Williams & Dr Robyn Orfitelli
-* MA English Language and Linguistics, University of Sheffield (2017-2018) | Distinction
-* BA English Language and Linguistics, University of Sheffield (2014-2017) | First Class Honours
+* PhD English Language and Linguistics, University of Sheffield (2019-2023)
+  * Supervisors: Dr Graham Williams & Dr Robyn Orfitelli
+* MA English Language and Linguistics, University of Sheffield (2017-2018)
+  * Distinction
+* BA English Language and Linguistics, University of Sheffield (2014-2017)
+  * First Class Honours
   
 Skills
 ======
